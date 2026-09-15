@@ -12,13 +12,13 @@ Code Extensions let you bring your own Python into Data 360 to run custom data t
 - [Code Extension (Salesforce Help)](https://help.salesforce.com/s/articleView?id=data.c360_a_code_extension.htm&release=260&type=5)
 
 ## Tooling
+- [Salesforce CLI (installation)](https://developer.salesforce.com/tools/salesforcecli)
+- [Data Custom Code SDK (GitHub)](https://github.com/forcedotcom/datacloud-customcode-python-sdk)
 - [Code Extension skill (sf-skills)](https://github.com/forcedotcom/sf-skills)
 - [Data 360 MCP Server (guide)](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/data360-mcp.html)
 - [Data 360 MCP Server (reference)](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/references/reference/data360-mcp.html)
-
-## Blog
-- [Build, deploy, run, and troubleshoot complex transformations with Python and PySpark, governed by Data 360](https://developer.salesforce.com/blogs/2026/09/build-deploy-run-and-troubleshoot-complex-transformations-with-python-and-pyspark-while-keeping-execution-governed-by-data-360)
-- [Introducing the Data 360 MCP Server (Developer Preview)](https://developer.salesforce.com/blogs/2026/05/introducing-the-data-360-mcp-server-developer-preview)
+- [Blog: Build, deploy, run, and troubleshoot complex transformations with Python and PySpark, governed by Data 360](https://developer.salesforce.com/blogs/2026/09/build-deploy-run-and-troubleshoot-complex-transformations-with-python-and-pyspark-while-keeping-execution-governed-by-data-360)
+- [Blog: Introducing the Data 360 MCP Server (Developer Preview)](https://developer.salesforce.com/blogs/2026/05/introducing-the-data-360-mcp-server-developer-preview)
 
 ## Session
 Dreamforce 2026
