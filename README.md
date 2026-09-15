@@ -1,6 +1,6 @@
 # Data 360 Code Extensions
 
-Resources for the Dreamforce 2026 session **Build Complex Data Transformations with Code Extensions** (session 2160).
+Resources for the Dreamforce 2026 session **Build Complex Data Transformations with Code Extensions**.
 
 Code Extensions let you bring your own Python into Data 360 to run custom data transformations when the native features are not enough. You author and validate locally with the Data Custom Code SDK, then deploy and run inside Data 360.
 
@@ -17,5 +17,5 @@ Build, deploy, run, and troubleshoot complex transformations with Python and PyS
 https://developer.salesforce.com/blogs/2026/09/build-deploy-run-and-troubleshoot-complex-transformations-with-python-and-pyspark-while-keeping-execution-governed-by-data-360
 
 ## Session
-Dreamforce 2026, session 2160
+Dreamforce 2026
 Speakers: Alba Rivas and Rohit Dar
