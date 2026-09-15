@@ -12,6 +12,10 @@ https://www.youtube.com/playlist?list=PLACV3VmGs318
 - Code Extension in Data 360 (developer guide): https://developer.salesforce.com/docs/data/data-cloud-code-ext/guide/use-custom-code.html
 - Code Extension (Salesforce Help): https://help.salesforce.com/s/articleView?id=data.c360_a_code_extension.htm&release=260&type=5
 
+## Tooling
+- Code Extension skill (sf-skills): https://github.com/forcedotcom/sf-skills
+- Data 360 MCP Server: https://github.com/forcedotcom/d360-mcp-server
+
 ## Blog
 Build, deploy, run, and troubleshoot complex transformations with Python and PySpark, governed by Data 360:
 https://developer.salesforce.com/blogs/2026/09/build-deploy-run-and-troubleshoot-complex-transformations-with-python-and-pyspark-while-keeping-execution-governed-by-data-360
