@@ -4,6 +4,10 @@ Resources for the Dreamforce 2026 session **Build Complex Data Transformations w
 
 Code Extensions let you bring your own Python into Data 360 to run custom data transformations when the native features are not enough. You author and validate locally with the Data Custom Code SDK, then deploy and run inside Data 360.
 
+📺 **[Watch the demo recording](https://github.com/albarivas/df26-data360-code-extensions/releases/download/v1.0/code-extensions-demo.mov)** (114 MB, `.mov`)
+
+📊 **[Download the slides](https://github.com/albarivas/df26-data360-code-extensions/blob/main/DF26%20-%202160%20-%20Build%20Complex%20Data%20Transformations%20with%20Code%20Extensions.pdf)** (6.4 MB, `.pdf`)
+
 ## Video series
 - [Full walkthrough: author, deploy, run, monitor](https://www.youtube.com/playlist?list=PLACV3VmGs318)
 
